@@ -1,0 +1,10 @@
+# Ambiente local. Para ver traces LLM, descomente o bloco do Langfuse e configure OTEL_* no .env.
+services:
+  api:
+    build: .
+    ports: ["8080:8080"]
+    env_file: .env
+    environment:
+      APP_ENV: development
+    read_only: true
+    tmpfs: ["/tmp"]

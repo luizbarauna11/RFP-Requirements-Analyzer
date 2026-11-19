@@ -1,0 +1,1608 @@
+{
+  "analysis_id": "edc53a9be4ed",
+  "trace_id": "0811d156c9454a1582d788bda2f8295b",
+  "generated_at": "2026-11-19T22:27:02.839710Z",
+  "document_name": "rfp_ficticia_field_services.txt",
+  "document_sha256": "9d726f38f6678c30a813cb89ffff1678dc76a7bae3972a3fe987e68d9c6fa647",
+  "title": "RFP FICTÍCIA – SERVIÇOS DE FIELD SERVICES E SUPORTE DE TI",
+  "requirements": [
+    {
+      "code": "RT-01",
+      "category": "TECNICO",
+      "section": "2. REQUISITOS TÉCNICOS",
+      "text": "A CONTRATADA deverá prestar suporte técnico de Nível 2 para desktops, notebooks, monitores, impressoras, dispositivos móveis e periféricos utilizados pelos usuários.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A CONTRATADA deverá prestar suporte técnico de Nível 2 para desktops, notebooks, monitores, impressoras, dispositivos móveis e periféricos utilizados pelos usuários.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Engenharia de Soluções",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Lista de periféricos não detalhada"
+        ],
+        "clarification_questions": [
+          "Qual o inventário de periféricos suportados?"
+        ],
+        "proposal_evidence": [
+          "Matriz de serviços e catálogo técnico",
+          "Atestados de capacidade técnica"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RT-02",
+      "category": "TECNICO",
+      "section": "2. REQUISITOS TÉCNICOS",
+      "text": "Os profissionais deverão realizar instalação, configuração, atualização e troubleshooting dos sistemas operacionais Windows 11.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Os profissionais deverão realizar instalação, configuração, atualização e troubleshooting dos sistemas operacionais Windows 11.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Engenharia de Soluções",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Matriz de serviços e catálogo técnico",
+          "Atestados de capacidade técnica"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RT-03",
+      "category": "TECNICO",
+      "section": "2. REQUISITOS TÉCNICOS",
+      "text": "O serviço deverá contemplar suporte ao Microsoft 365, Microsoft Teams, Outlook e OneDrive.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "O serviço deverá contemplar suporte ao Microsoft 365, Microsoft Teams, Outlook e OneDrive.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Engenharia de Soluções",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Matriz de serviços e catálogo técnico",
+          "Atestados de capacidade técnica"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RT-04",
+      "category": "TECNICO",
+      "section": "2. REQUISITOS TÉCNICOS",
+      "text": "A solução deverá registrar e acompanhar todos os chamados por meio da ferramenta ITSM disponibilizada pela CONTRATANTE.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A solução deverá registrar e acompanhar todos os chamados por meio da ferramenta ITSM disponibilizada pela CONTRATANTE.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Engenharia de Soluções",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Escopo universal ('todos') pode gerar custo não previsto"
+        ],
+        "clarification_questions": [
+          "Existe limite de volume/escopo?"
+        ],
+        "proposal_evidence": [
+          "Matriz de serviços e catálogo técnico",
+          "Atestados de capacidade técnica"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RT-05",
+      "category": "TECNICO",
+      "section": "2. REQUISITOS TÉCNICOS",
+      "text": "A CONTRATADA deverá manter documentação atualizada dos procedimentos técnicos e da base de conhecimento utilizada pela equipe.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A CONTRATADA deverá manter documentação atualizada dos procedimentos técnicos e da base de conhecimento utilizada pela equipe.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Engenharia de Soluções",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Periodicidade de atualização não definida"
+        ],
+        "clarification_questions": [
+          "Qual a periodicidade mínima de atualização?"
+        ],
+        "proposal_evidence": [
+          "Matriz de serviços e catálogo técnico",
+          "Atestados de capacidade técnica"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RC-01",
+      "category": "COMERCIAL",
+      "section": "3. REQUISITOS COMERCIAIS",
+      "text": "A proposta comercial deverá apresentar o valor mensal do serviço e o valor total estimado para o período contratual.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A proposta comercial deverá apresentar o valor mensal do serviço e o valor total estimado para o período contratual.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Comercial/Financeiro",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Planilha de formação de preço",
+          "Premissas comerciais explícitas"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RC-02",
+      "category": "COMERCIAL",
+      "section": "3. REQUISITOS COMERCIAIS",
+      "text": "Todos os custos com salários, benefícios, impostos, equipamentos e deslocamentos da equipe deverão estar incluídos na proposta.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Todos os custos com salários, benefícios, impostos, equipamentos e deslocamentos da equipe deverão estar incluídos na proposta.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "ALTA",
+        "owner_area": "Comercial/Financeiro",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Escopo universal ('todos') pode gerar custo não previsto"
+        ],
+        "clarification_questions": [
+          "Existe limite de volume/escopo?"
+        ],
+        "proposal_evidence": [
+          "Planilha de formação de preço",
+          "Premissas comerciais explícitas"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RC-03",
+      "category": "COMERCIAL",
+      "section": "3. REQUISITOS COMERCIAIS",
+      "text": "O faturamento será realizado mensalmente após a validação dos serviços prestados.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "O faturamento será realizado mensalmente após a validação dos serviços prestados.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Comercial/Financeiro",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Planilha de formação de preço",
+          "Premissas comerciais explícitas"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RC-04",
+      "category": "COMERCIAL",
+      "section": "3. REQUISITOS COMERCIAIS",
+      "text": "O prazo fictício de pagamento será de 30 dias após a emissão e aceite da nota fiscal.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 30.0,
+          "unit": "dias",
+          "raw": "30 dias"
+        }
+      ],
+      "enrichment": {
+        "summary": "O prazo fictício de pagamento será de 30 dias após a emissão e aceite da nota fiscal.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Comercial/Financeiro",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Planilha de formação de preço",
+          "Premissas comerciais explícitas"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "RC-05",
+      "category": "COMERCIAL",
+      "section": "3. REQUISITOS COMERCIAIS",
+      "text": "A proposta comercial deverá permanecer válida por pelo menos 60 dias após sua apresentação.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 60.0,
+          "unit": "dias",
+          "raw": "60 dias"
+        }
+      ],
+      "enrichment": {
+        "summary": "A proposta comercial deverá permanecer válida por pelo menos 60 dias após sua apresentação.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Comercial/Financeiro",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Planilha de formação de preço",
+          "Premissas comerciais explícitas"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-01",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "Chamados de prioridade crítica deverão ter início de atendimento em até 15 minutos.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 15.0,
+          "unit": "minutos",
+          "raw": "15 minutos"
+        }
+      ],
+      "enrichment": {
+        "summary": "Chamados de prioridade crítica deverão ter início de atendimento em até 15 minutos.",
+        "criticality": "ALTA",
+        "risk_level": "ALTA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [
+          "Meta agressiva: exige dimensionamento e contingência específicos"
+        ],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-02",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "Chamados de prioridade alta deverão ter início de atendimento em até 30 minutos.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 30.0,
+          "unit": "minutos",
+          "raw": "30 minutos"
+        }
+      ],
+      "enrichment": {
+        "summary": "Chamados de prioridade alta deverão ter início de atendimento em até 30 minutos.",
+        "criticality": "ALTA",
+        "risk_level": "ALTA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [
+          "Meta agressiva: exige dimensionamento e contingência específicos"
+        ],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-03",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "Chamados de prioridade média deverão ter início de atendimento em até 2 horas.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 2.0,
+          "unit": "horas",
+          "raw": "2 horas"
+        }
+      ],
+      "enrichment": {
+        "summary": "Chamados de prioridade média deverão ter início de atendimento em até 2 horas.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-04",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "Chamados de prioridade baixa deverão ter início de atendimento em até 4 horas.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 4.0,
+          "unit": "horas",
+          "raw": "4 horas"
+        }
+      ],
+      "enrichment": {
+        "summary": "Chamados de prioridade baixa deverão ter início de atendimento em até 4 horas.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-05",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "A meta mensal de cumprimento dos SLAs deverá ser igual ou superior a 95%.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 95.0,
+          "unit": "%",
+          "raw": "95%"
+        }
+      ],
+      "enrichment": {
+        "summary": "A meta mensal de cumprimento dos SLAs deverá ser igual ou superior a 95%.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SLA-06",
+      "category": "SLA",
+      "section": "4. SLAs – NÍVEIS DE SERVIÇO",
+      "text": "A disponibilidade mensal do serviço deverá ser de pelo menos 99,5% durante o horário contratado.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 99.5,
+          "unit": "%",
+          "raw": "99,5%"
+        }
+      ],
+      "enrichment": {
+        "summary": "A disponibilidade mensal do serviço deverá ser de pelo menos 99,5% durante o horário contratado.",
+        "criticality": "ALTA",
+        "risk_level": "ALTA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [
+          "Meta agressiva: exige dimensionamento e contingência específicos",
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Horário contratado não definido na RFP"
+        ],
+        "clarification_questions": [
+          "Qual o horário de cobertura contratado?"
+        ],
+        "proposal_evidence": [
+          "Modelo de dimensionamento da equipe",
+          "Histórico de SLA em contratos similares"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SEG-01",
+      "category": "SEGURANCA",
+      "section": "5. SEGURANÇA DA INFORMAÇÃO",
+      "text": "Todos os profissionais deverão assinar termo de confidencialidade antes do início das atividades.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Todos os profissionais deverão assinar termo de confidencialidade antes do início das atividades.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Segurança da Informação",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Escopo universal ('todos') pode gerar custo não previsto"
+        ],
+        "clarification_questions": [
+          "Existe limite de volume/escopo?"
+        ],
+        "proposal_evidence": [
+          "Políticas de SI da contratada",
+          "Modelo de termo de confidencialidade"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SEG-02",
+      "category": "SEGURANCA",
+      "section": "5. SEGURANÇA DA INFORMAÇÃO",
+      "text": "O acesso aos ambientes da CONTRATANTE deverá utilizar contas individuais, sendo proibido o compartilhamento de credenciais.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "O acesso aos ambientes da CONTRATANTE deverá utilizar contas individuais, sendo proibido o compartilhamento de credenciais.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Segurança da Informação",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Políticas de SI da contratada",
+          "Modelo de termo de confidencialidade"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SEG-03",
+      "category": "SEGURANCA",
+      "section": "5. SEGURANÇA DA INFORMAÇÃO",
+      "text": "A CONTRATADA deverá seguir as políticas de segurança da informação fornecidas pela CONTRATANTE.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A CONTRATADA deverá seguir as políticas de segurança da informação fornecidas pela CONTRATANTE.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Segurança da Informação",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Políticas não anexadas à RFP"
+        ],
+        "clarification_questions": [
+          "As políticas podem ser enviadas antes da proposta?"
+        ],
+        "proposal_evidence": [
+          "Políticas de SI da contratada",
+          "Modelo de termo de confidencialidade"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SEG-04",
+      "category": "SEGURANCA",
+      "section": "5. SEGURANÇA DA INFORMAÇÃO",
+      "text": "Qualquer incidente de segurança identificado durante o atendimento deverá ser comunicado imediatamente ao responsável designado pela CONTRATANTE.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Qualquer incidente de segurança identificado durante o atendimento deverá ser comunicado imediatamente ao responsável designado pela CONTRATANTE.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Segurança da Informação",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "'Imediatamente' sem prazo objetivo"
+        ],
+        "clarification_questions": [
+          "Qual o prazo máximo (em minutos) para a comunicação?"
+        ],
+        "proposal_evidence": [
+          "Políticas de SI da contratada",
+          "Modelo de termo de confidencialidade"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "SEG-05",
+      "category": "SEGURANCA",
+      "section": "5. SEGURANÇA DA INFORMAÇÃO",
+      "text": "Dados corporativos não poderão ser copiados para dispositivos pessoais ou serviços de armazenamento não autorizados.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Dados corporativos não poderão ser copiados para dispositivos pessoais ou serviços de armazenamento não autorizados.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Segurança da Informação",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Políticas de SI da contratada",
+          "Modelo de termo de confidencialidade"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "LOC-01",
+      "category": "LOCALIDADE",
+      "section": "6. LOCALIDADES E COBERTURA",
+      "text": "O atendimento presencial deverá ser disponibilizado nas unidades fictícias de São Paulo/SP, Curitiba/PR e Belo Horizonte/MG.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "O atendimento presencial deverá ser disponibilizado nas unidades fictícias de São Paulo/SP, Curitiba/PR e Belo Horizonte/MG.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Mapa de cobertura e base de técnicos",
+          "Plano de deslocamento"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "LOC-02",
+      "category": "LOCALIDADE",
+      "section": "6. LOCALIDADES E COBERTURA",
+      "text": "Usuários de outras localidades brasileiras poderão receber atendimento remoto quando tecnicamente possível.",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Usuários de outras localidades brasileiras poderão receber atendimento remoto quando tecnicamente possível.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Critério 'tecnicamente possível' é subjetivo"
+        ],
+        "clarification_questions": [
+          "Quais critérios definem a viabilidade do atendimento remoto?"
+        ],
+        "proposal_evidence": [
+          "Mapa de cobertura e base de técnicos",
+          "Plano de deslocamento"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "LOC-03",
+      "category": "LOCALIDADE",
+      "section": "6. LOCALIDADES E COBERTURA",
+      "text": "Deslocamentos extraordinários entre localidades deverão ser previamente aprovados pela CONTRATANTE.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Deslocamentos extraordinários entre localidades deverão ser previamente aprovados pela CONTRATANTE.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "ALTA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Fluxo e prazo de aprovação não definidos"
+        ],
+        "clarification_questions": [
+          "Qual o fluxo e SLA de aprovação?"
+        ],
+        "proposal_evidence": [
+          "Mapa de cobertura e base de técnicos",
+          "Plano de deslocamento"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PRZ-01",
+      "category": "PRAZO",
+      "section": "7. PRAZOS",
+      "text": "A CONTRATADA deverá apresentar o plano de transição em até 10 dias úteis após a assinatura do contrato.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 10.0,
+          "unit": "dias úteis",
+          "raw": "10 dias úteis"
+        }
+      ],
+      "enrichment": {
+        "summary": "A CONTRATADA deverá apresentar o plano de transição em até 10 dias úteis após a assinatura do contrato.",
+        "criticality": "ALTA",
+        "risk_level": "MEDIA",
+        "cost_impact": "MEDIA",
+        "owner_area": "PMO/Transição",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Cronograma de transição (Gantt)",
+          "Plano de mobilização de equipe"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PRZ-02",
+      "category": "PRAZO",
+      "section": "7. PRAZOS",
+      "text": "A operação deverá estar totalmente implantada em até 30 dias corridos após a assinatura do contrato.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 30.0,
+          "unit": "dias corridos",
+          "raw": "30 dias corridos"
+        }
+      ],
+      "enrichment": {
+        "summary": "A operação deverá estar totalmente implantada em até 30 dias corridos após a assinatura do contrato.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "PMO/Transição",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Cronograma de transição (Gantt)",
+          "Plano de mobilização de equipe"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PRZ-03",
+      "category": "PRAZO",
+      "section": "7. PRAZOS",
+      "text": "O contrato terá duração fictícia de 12 meses, podendo ser prorrogado mediante acordo entre as partes.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 12.0,
+          "unit": "meses",
+          "raw": "12 meses"
+        }
+      ],
+      "enrichment": {
+        "summary": "O contrato terá duração fictícia de 12 meses, podendo ser prorrogado mediante acordo entre as partes.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "PMO/Transição",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Cronograma de transição (Gantt)",
+          "Plano de mobilização de equipe"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PRZ-04",
+      "category": "PRAZO",
+      "section": "7. PRAZOS",
+      "text": "Relatórios mensais deverão ser apresentados até o quinto dia útil do mês seguinte ao período de referência.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Relatórios mensais deverão ser apresentados até o quinto dia útil do mês seguinte ao período de referência.",
+        "criticality": "ALTA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "PMO/Transição",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Cronograma de transição (Gantt)",
+          "Plano de mobilização de equipe"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PP-01",
+      "category": "PERFIL",
+      "section": "8. PERFIS PROFISSIONAIS",
+      "text": "O Analista de Suporte Nível 2 deverá possuir experiência mínima de 2 anos em suporte técnico a usuários corporativos.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 2.0,
+          "unit": "anos",
+          "raw": "2 anos"
+        }
+      ],
+      "enrichment": {
+        "summary": "O Analista de Suporte Nível 2 deverá possuir experiência mínima de 2 anos em suporte técnico a usuários corporativos.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "RH/Recrutamento",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Currículos/perfis-modelo",
+          "Política de recrutamento e retenção"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PP-02",
+      "category": "PERFIL",
+      "section": "8. PERFIS PROFISSIONAIS",
+      "text": "O profissional deverá possuir conhecimentos em Windows 11, Microsoft 365, hardware de notebooks e desktops, redes básicas e ferramentas de acesso remoto.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "O profissional deverá possuir conhecimentos em Windows 11, Microsoft 365, hardware de notebooks e desktops, redes básicas e ferramentas de acesso remoto.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "RH/Recrutamento",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Currículos/perfis-modelo",
+          "Política de recrutamento e retenção"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PP-03",
+      "category": "PERFIL",
+      "section": "8. PERFIS PROFISSIONAIS",
+      "text": "Será desejável conhecimento de ITIL 4 e boas práticas de gerenciamento de serviços de TI.",
+      "obligation": "DESEJAVEL",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Será desejável conhecimento de ITIL 4 e boas práticas de gerenciamento de serviços de TI.",
+        "criticality": "BAIXA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "RH/Recrutamento",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Currículos/perfis-modelo",
+          "Política de recrutamento e retenção"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PP-04",
+      "category": "PERFIL",
+      "section": "8. PERFIS PROFISSIONAIS",
+      "text": "O Coordenador de Serviços deverá possuir experiência mínima de 3 anos em coordenação de equipes de suporte e acompanhamento de indicadores de SLA.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [
+        {
+          "value": 3.0,
+          "unit": "anos",
+          "raw": "3 anos"
+        }
+      ],
+      "enrichment": {
+        "summary": "O Coordenador de Serviços deverá possuir experiência mínima de 3 anos em coordenação de equipes de suporte e acompanhamento de indicadores de SLA.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "ALTA",
+        "owner_area": "RH/Recrutamento",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Currículos/perfis-modelo",
+          "Política de recrutamento e retenção"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PP-05",
+      "category": "PERFIL",
+      "section": "8. PERFIS PROFISSIONAIS",
+      "text": "Os profissionais deverão possuir boa comunicação, capacidade de documentação e atendimento ao usuário.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Os profissionais deverão possuir boa comunicação, capacidade de documentação e atendimento ao usuário.",
+        "criticality": "MEDIA",
+        "risk_level": "MEDIA",
+        "cost_impact": "ALTA",
+        "owner_area": "RH/Recrutamento",
+        "risks": [
+          "Ambiguidade pode gerar divergência de interpretação na medição/aceite"
+        ],
+        "ambiguities": [
+          "Competência comportamental sem critério de avaliação"
+        ],
+        "clarification_questions": [
+          "Como a competência será avaliada (entrevista, certificação)?"
+        ],
+        "proposal_evidence": [
+          "Currículos/perfis-modelo",
+          "Política de recrutamento e retenção"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "GOV-01",
+      "category": "GOVERNANCA",
+      "section": "9. RELATÓRIOS E GOVERNANÇA",
+      "text": "A CONTRATADA deverá fornecer relatório mensal contendo volume de chamados, classificação por prioridade, percentual de cumprimento de SLA, principais incidentes e backlog.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A CONTRATADA deverá fornecer relatório mensal contendo volume de chamados, classificação por prioridade, percentual de cumprimento de SLA, principais incidentes e backlog.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de relatório mensal",
+          "Rito de governança (RACI)"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "GOV-02",
+      "category": "GOVERNANCA",
+      "section": "9. RELATÓRIOS E GOVERNANÇA",
+      "text": "Deverá ser realizada reunião mensal de acompanhamento dos indicadores e definição dos planos de ação necessários.",
+      "obligation": "OBRIGATORIO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Deverá ser realizada reunião mensal de acompanhamento dos indicadores e definição dos planos de ação necessários.",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "BAIXA",
+        "owner_area": "Operações/Service Delivery",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [
+          "Modelo de relatório mensal",
+          "Rito de governança (RACI)"
+        ],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-01",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "Quantos usuários serão atendidos em cada localidade?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Quantos usuários serão atendidos em cada localidade?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-02",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "Qual é o volume médio mensal de chamados por categoria e prioridade?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Qual é o volume médio mensal de chamados por categoria e prioridade?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-03",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "Qual ferramenta ITSM será disponibilizada pela CONTRATANTE?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Qual ferramenta ITSM será disponibilizada pela CONTRATANTE?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-04",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "Existem usuários VIP que necessitam de níveis de serviço diferenciados?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Existem usuários VIP que necessitam de níveis de serviço diferenciados?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-05",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "Será necessário atendimento fora do horário comercial, aos finais de semana ou feriados?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "Será necessário atendimento fora do horário comercial, aos finais de semana ou feriados?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    },
+    {
+      "code": "PEN-06",
+      "category": "PENDENCIA",
+      "section": "10. INFORMAÇÕES A SEREM ESCLARECIDAS",
+      "text": "A CONTRATANTE fornecerá notebooks e demais equipamentos necessários para os profissionais alocados?",
+      "obligation": "INFORMATIVO",
+      "metrics": [],
+      "enrichment": {
+        "summary": "A CONTRATANTE fornecerá notebooks e demais equipamentos necessários para os profissionais alocados?",
+        "criticality": "MEDIA",
+        "risk_level": "BAIXA",
+        "cost_impact": "MEDIA",
+        "owner_area": "Pré-vendas",
+        "risks": [],
+        "ambiguities": [],
+        "clarification_questions": [],
+        "proposal_evidence": [],
+        "source": "heuristic"
+      },
+      "compliance_status": "A_AVALIAR",
+      "extraction": "deterministic"
+    }
+  ],
+  "gaps": [
+    {
+      "topic": "Volumetria (usuários e chamados)",
+      "description": "Sem volumetria não há base para dimensionar equipe nem precificar.",
+      "severity": "ALTA",
+      "status": "PENDENTE_NA_RFP",
+      "related_codes": [
+        "PEN-01",
+        "PEN-02"
+      ],
+      "suggested_question": "Qual a volumetria histórica (12 meses) de usuários e chamados por localidade, categoria e prioridade?"
+    },
+    {
+      "topic": "Horário de cobertura do serviço",
+      "description": "SLAs e disponibilidade dependem da janela de cobertura (8x5, 12x6, 24x7).",
+      "severity": "ALTA",
+      "status": "PENDENTE_NA_RFP",
+      "related_codes": [
+        "PEN-05"
+      ],
+      "suggested_question": "Qual a janela de cobertura contratada (dias e horários) por localidade?"
+    },
+    {
+      "topic": "Penalidades / glosas por descumprimento",
+      "description": "Exposição financeira desconhecida impede precificar o risco.",
+      "severity": "ALTA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Quais penalidades/glosas se aplicam ao descumprimento de SLA e qual o teto mensal?"
+    },
+    {
+      "topic": "SLA de solução (tempo de resolução)",
+      "description": "Medir apenas o início do atendimento abre espaço para disputas sobre a qualidade da entrega.",
+      "severity": "MEDIA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Haverá metas de tempo de solução por prioridade? Como serão medidas e pausadas?"
+    },
+    {
+      "topic": "Critérios de julgamento das propostas",
+      "description": "Sem critérios de julgamento não é possível calibrar o posicionamento técnico vs. preço.",
+      "severity": "MEDIA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Quais os critérios e pesos de avaliação técnica e comercial?"
+    },
+    {
+      "topic": "Cronograma do processo de RFP",
+      "description": "Datas do processo (perguntas, entrega, apresentação) não informadas.",
+      "severity": "MEDIA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Qual o cronograma do processo (prazo de perguntas, entrega da proposta e decisão)?"
+    },
+    {
+      "topic": "Reajuste contratual",
+      "description": "Contrato de mão de obra intensiva exige regra de reajuste (dissídio/índice).",
+      "severity": "MEDIA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Qual o índice e a periodicidade de reajuste, inclusive em caso de prorrogação?"
+    },
+    {
+      "topic": "LGPD / tratamento de dados pessoais",
+      "description": "Técnicos acessam equipamentos com dados pessoais; papéis LGPD precisam estar claros.",
+      "severity": "MEDIA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "A contratada atuará como operadora de dados pessoais? Haverá DPA/aditivo LGPD?"
+    },
+    {
+      "topic": "Matriz de escalonamento",
+      "description": "Fronteira entre N2 da contratada e N1/N3 da contratante não está definida.",
+      "severity": "BAIXA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Qual a fronteira de responsabilidade e o fluxo de escalonamento entre N1, N2 e N3?"
+    },
+    {
+      "topic": "Plano de saída (desmobilização)",
+      "description": "Obrigações de repasse no encerramento podem gerar custo não previsto.",
+      "severity": "BAIXA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Há obrigações de transição de saída ao término do contrato? Por quanto tempo?"
+    },
+    {
+      "topic": "Garantias contratuais / seguros",
+      "description": "Garantias exigidas impactam custo financeiro da proposta.",
+      "severity": "BAIXA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "Será exigida garantia contratual ou seguro? Em que percentual?"
+    },
+    {
+      "topic": "Subcontratação",
+      "description": "Cobertura nacional pode exigir parceiros locais; a RFP não diz se é permitido.",
+      "severity": "BAIXA",
+      "status": "AUSENTE",
+      "related_codes": [],
+      "suggested_question": "É permitida subcontratação/parceiros para atendimento em localidades remotas?"
+    }
+  ],
+  "cross_risks": [
+    {
+      "id": "RX-01",
+      "title": "Preço fixo sem volumetria definida",
+      "description": "A RFP exige valor mensal fechado com todos os custos inclusos, mas não informa quantidade de usuários nem volume de chamados.",
+      "severity": "ALTA",
+      "related_codes": [
+        "RC-01",
+        "RC-02",
+        "PEN-01",
+        "PEN-02"
+      ],
+      "mitigation": "Precificar com premissas explícitas de volumetria e banda de variação (ex.: ±15%), com cláusula de repactuação fora da banda."
+    },
+    {
+      "id": "RX-02",
+      "title": "SLA de início agressivo com atendimento presencial multi-site",
+      "description": "Início de atendimento em até 15–30 minutos combinado com presença física em várias localidades exige técnico residente por site ou início remoto.",
+      "severity": "ALTA",
+      "related_codes": [
+        "SLA-01",
+        "SLA-02",
+        "LOC-01"
+      ],
+      "mitigation": "Propor que 'início de atendimento' seja contabilizado pelo primeiro contato remoto (registro no ITSM) e dimensionar ao menos um técnico residente por unidade."
+    },
+    {
+      "id": "RX-03",
+      "title": "Meta de disponibilidade sem janela de cobertura",
+      "description": "A disponibilidade é exigida 'durante o horário contratado', que não é definido na RFP.",
+      "severity": "MEDIA",
+      "related_codes": [
+        "SLA-06",
+        "PEN-05"
+      ],
+      "mitigation": "Explicitar na proposta a janela assumida e a fórmula de cálculo da disponibilidade."
+    },
+    {
+      "id": "RX-04",
+      "title": "SLAs medem apenas o início do atendimento",
+      "description": "Não há meta de solução: o cliente pode, durante a execução, cobrar resolução com expectativa implícita não precificada.",
+      "severity": "MEDIA",
+      "related_codes": [
+        "SLA-01",
+        "SLA-02",
+        "SLA-03",
+        "SLA-04"
+      ],
+      "mitigation": "Propor metas de solução como indicador de acompanhamento (não penalizável) ou precificá-las explicitamente."
+    },
+    {
+      "id": "RX-05",
+      "title": "Ramp-up curto com exigência de perfis experientes",
+      "description": "Implantação total em até 30 dias exige recrutar perfis com experiência mínima comprovada em paralelo à transição.",
+      "severity": "MEDIA",
+      "related_codes": [
+        "PRZ-02",
+        "PP-01",
+        "PP-02",
+        "PP-04",
+        "PP-05"
+      ],
+      "mitigation": "Iniciar pipeline de recrutamento na fase de proposta e prever operação assistida (hypercare) com metas de SLA escalonadas nos primeiros 60 dias."
+    },
+    {
+      "id": "RX-06",
+      "title": "Deslocamentos embutidos no preço sem volumetria de visitas",
+      "description": "Custos de deslocamento devem estar no preço fixo, mas a frequência de visitas e os deslocamentos extraordinários não são estimados.",
+      "severity": "MEDIA",
+      "related_codes": [
+        "RC-02",
+        "LOC-01",
+        "LOC-02",
+        "LOC-03"
+      ],
+      "mitigation": "Separar deslocamentos ordinários (no preço) de extraordinários (reembolso sob aprovação)."
+    },
+    {
+      "id": "RX-07",
+      "title": "Fluxo de caixa: pagamento condicionado a validação e aceite",
+      "description": "Folha é paga mensalmente, mas o recebimento ocorre 30 dias após validação e aceite, sem prazo máximo de validação — exige capital de giro.",
+      "severity": "BAIXA",
+      "related_codes": [
+        "RC-03",
+        "RC-04"
+      ],
+      "mitigation": "Incluir custo financeiro no preço e propor prazo máximo para validação (aceite tácito)."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Quantos usuários serão atendidos em cada localidade?",
+      "related_codes": [
+        "PEN-01"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Qual é o volume médio mensal de chamados por categoria e prioridade?",
+      "related_codes": [
+        "PEN-02"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Qual ferramenta ITSM será disponibilizada pela CONTRATANTE?",
+      "related_codes": [
+        "PEN-03"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Existem usuários VIP que necessitam de níveis de serviço diferenciados?",
+      "related_codes": [
+        "PEN-04"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Será necessário atendimento fora do horário comercial, aos finais de semana ou feriados?",
+      "related_codes": [
+        "PEN-05"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "A CONTRATANTE fornecerá notebooks e demais equipamentos necessários para os profissionais alocados?",
+      "related_codes": [
+        "PEN-06"
+      ],
+      "origin": "rfp",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Quais penalidades/glosas se aplicam ao descumprimento de SLA e qual o teto mensal?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Qual o horário de cobertura contratado?",
+      "related_codes": [
+        "SLA-06"
+      ],
+      "origin": "heuristic",
+      "priority": "ALTA"
+    },
+    {
+      "question": "As políticas podem ser enviadas antes da proposta?",
+      "related_codes": [
+        "SEG-03"
+      ],
+      "origin": "heuristic",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Qual o prazo máximo (em minutos) para a comunicação?",
+      "related_codes": [
+        "SEG-04"
+      ],
+      "origin": "heuristic",
+      "priority": "ALTA"
+    },
+    {
+      "question": "Haverá metas de tempo de solução por prioridade? Como serão medidas e pausadas?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Quais os critérios e pesos de avaliação técnica e comercial?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual o cronograma do processo (prazo de perguntas, entrega da proposta e decisão)?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual o índice e a periodicidade de reajuste, inclusive em caso de prorrogação?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "A contratada atuará como operadora de dados pessoais? Haverá DPA/aditivo LGPD?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual o inventário de periféricos suportados?",
+      "related_codes": [
+        "RT-01"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Existe limite de volume/escopo?",
+      "related_codes": [
+        "RT-04"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual a periodicidade mínima de atualização?",
+      "related_codes": [
+        "RT-05"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Quais critérios definem a viabilidade do atendimento remoto?",
+      "related_codes": [
+        "LOC-02"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual o fluxo e SLA de aprovação?",
+      "related_codes": [
+        "LOC-03"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Como a competência será avaliada (entrevista, certificação)?",
+      "related_codes": [
+        "PP-05"
+      ],
+      "origin": "heuristic",
+      "priority": "MEDIA"
+    },
+    {
+      "question": "Qual a fronteira de responsabilidade e o fluxo de escalonamento entre N1, N2 e N3?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "BAIXA"
+    },
+    {
+      "question": "Há obrigações de transição de saída ao término do contrato? Por quanto tempo?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "BAIXA"
+    },
+    {
+      "question": "Será exigida garantia contratual ou seguro? Em que percentual?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "BAIXA"
+    },
+    {
+      "question": "É permitida subcontratação/parceiros para atendimento em localidades remotas?",
+      "related_codes": [],
+      "origin": "gap",
+      "priority": "BAIXA"
+    }
+  ],
+  "summary": {
+    "overview": "A RFP 'RFP FICTÍCIA – SERVIÇOS DE FIELD SERVICES E SUPORTE DE TI' contém 41 itens analisados, distribuídos em 9 categorias. Foram identificadas 12 lacunas de informação e 7 riscos cruzados entre requisitos. Índice de clareza: 26/100.",
+    "bid_signal": "INDEFINIDO",
+    "rationale": "Sinal calculado por regras determinísticas: faltam dados essenciais para precificar (volumetria e/ou penalidades).",
+    "key_risks": [
+      "Preço fixo sem volumetria definida",
+      "SLA de início agressivo com atendimento presencial multi-site",
+      "Meta de disponibilidade sem janela de cobertura",
+      "SLAs medem apenas o início do atendimento",
+      "Ramp-up curto com exigência de perfis experientes"
+    ],
+    "next_steps": [
+      "Enviar ao cliente as perguntas de esclarecimento de prioridade ALTA",
+      "Montar premissas de precificação explícitas para cada lacuna de prioridade ALTA",
+      "Validar a matriz de requisitos com as áreas responsáveis (coluna 'Área')",
+      "Preencher o status de aderência (Atende/Parcial/Não atende) na matriz",
+      "Levar o sinal de bid ao comitê de pré-vendas com os riscos mitigados"
+    ],
+    "source": "heuristic",
+    "disclaimer": "Sinal INDICATIVO gerado automaticamente. A decisão de bid/no-bid e a declaração de aderência são responsabilidade do comitê de pré-vendas."
+  },
+  "kpis": {
+    "total_requisitos": 41,
+    "por_categoria": {
+      "TECNICO": 5,
+      "COMERCIAL": 5,
+      "SLA": 6,
+      "SEGURANCA": 5,
+      "LOCALIDADE": 3,
+      "PRAZO": 4,
+      "PERFIL": 5,
+      "GOVERNANCA": 2,
+      "PENDENCIA": 6
+    },
+    "por_obrigatoriedade": {
+      "OBRIGATORIO": 33,
+      "INFORMATIVO": 7,
+      "DESEJAVEL": 1
+    },
+    "criticidade_alta": 20,
+    "risco_alto": 3,
+    "metricas_quantitativas": 13,
+    "ambiguidades": 11,
+    "lacunas": 12,
+    "lacunas_alta": 3,
+    "riscos_cruzados": 7,
+    "riscos_cruzados_alta": 2,
+    "indice_clareza": 26,
+    "cobertura_llm_pct": 0.0
+  },
+  "usage": {
+    "calls": 0,
+    "cached_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "models_used": [],
+    "fallback_used": false,
+    "degraded_mode": true,
+    "errors": [
+      "llm_desativado_ou_sem_credencial"
+    ]
+  },
+  "security_flags": [],
+  "prompt_versions": {
+    "enrich_requirements": "1.0.0",
+    "extract_requirements": "1.0.0",
+    "executive_summary": "1.0.0"
+  }
+}
