@@ -1,0 +1,2 @@
+Resultado da classificação dos requisitos da RFP.
+Este arquivo será gerado/atualizado pelo RFP Requirements Analyzer.
