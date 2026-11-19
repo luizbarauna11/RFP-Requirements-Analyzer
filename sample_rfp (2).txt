@@ -1,0 +1,67 @@
+RFP FICTÍCIA – SERVIÇOS DE FIELD SERVICES E SUPORTE DE TI
+
+IMPORTANTE: Este documento contém dados totalmente fictícios e foi criado exclusivamente para fins educacionais e de demonstração do projeto RFP Requirements Analyzer.
+
+1. CONTEXTO
+A Empresa Exemplo S.A. deseja contratar uma empresa especializada para prestação de serviços de Field Services e suporte técnico de Nível 2 aos usuários de suas unidades no Brasil. O objetivo é garantir continuidade operacional, padronização do atendimento e cumprimento dos níveis de serviço definidos nesta RFP.
+
+2. REQUISITOS TÉCNICOS
+RT-01 – A CONTRATADA deverá prestar suporte técnico de Nível 2 para desktops, notebooks, monitores, impressoras, dispositivos móveis e periféricos utilizados pelos usuários.
+RT-02 – Os profissionais deverão realizar instalação, configuração, atualização e troubleshooting dos sistemas operacionais Windows 11.
+RT-03 – O serviço deverá contemplar suporte ao Microsoft 365, Microsoft Teams, Outlook e OneDrive.
+RT-04 – A solução deverá registrar e acompanhar todos os chamados por meio da ferramenta ITSM disponibilizada pela CONTRATANTE.
+RT-05 – A CONTRATADA deverá manter documentação atualizada dos procedimentos técnicos e da base de conhecimento utilizada pela equipe.
+
+3. REQUISITOS COMERCIAIS
+RC-01 – A proposta comercial deverá apresentar o valor mensal do serviço e o valor total estimado para o período contratual.
+RC-02 – Todos os custos com salários, benefícios, impostos, equipamentos e deslocamentos da equipe deverão estar incluídos na proposta.
+RC-03 – O faturamento será realizado mensalmente após a validação dos serviços prestados.
+RC-04 – O prazo fictício de pagamento será de 30 dias após a emissão e aceite da nota fiscal.
+RC-05 – A proposta comercial deverá permanecer válida por pelo menos 60 dias após sua apresentação.
+
+4. SLAs – NÍVEIS DE SERVIÇO
+SLA-01 – Chamados de prioridade crítica deverão ter início de atendimento em até 15 minutos.
+SLA-02 – Chamados de prioridade alta deverão ter início de atendimento em até 30 minutos.
+SLA-03 – Chamados de prioridade média deverão ter início de atendimento em até 2 horas.
+SLA-04 – Chamados de prioridade baixa deverão ter início de atendimento em até 4 horas.
+SLA-05 – A meta mensal de cumprimento dos SLAs deverá ser igual ou superior a 95%.
+SLA-06 – A disponibilidade mensal do serviço deverá ser de pelo menos 99,5% durante o horário contratado.
+
+5. SEGURANÇA DA INFORMAÇÃO
+SEG-01 – Todos os profissionais deverão assinar termo de confidencialidade antes do início das atividades.
+SEG-02 – O acesso aos ambientes da CONTRATANTE deverá utilizar contas individuais, sendo proibido o compartilhamento de credenciais.
+SEG-03 – A CONTRATADA deverá seguir as políticas de segurança da informação fornecidas pela CONTRATANTE.
+SEG-04 – Qualquer incidente de segurança identificado durante o atendimento deverá ser comunicado imediatamente ao responsável designado pela CONTRATANTE.
+SEG-05 – Dados corporativos não poderão ser copiados para dispositivos pessoais ou serviços de armazenamento não autorizados.
+
+6. LOCALIDADES E COBERTURA
+LOC-01 – O atendimento presencial deverá ser disponibilizado nas unidades fictícias de São Paulo/SP, Curitiba/PR e Belo Horizonte/MG.
+LOC-02 – Usuários de outras localidades brasileiras poderão receber atendimento remoto quando tecnicamente possível.
+LOC-03 – Deslocamentos extraordinários entre localidades deverão ser previamente aprovados pela CONTRATANTE.
+
+7. PRAZOS
+PRZ-01 – A CONTRATADA deverá apresentar o plano de transição em até 10 dias úteis após a assinatura do contrato.
+PRZ-02 – A operação deverá estar totalmente implantada em até 30 dias corridos após a assinatura do contrato.
+PRZ-03 – O contrato terá duração fictícia de 12 meses, podendo ser prorrogado mediante acordo entre as partes.
+PRZ-04 – Relatórios mensais deverão ser apresentados até o quinto dia útil do mês seguinte ao período de referência.
+
+8. PERFIS PROFISSIONAIS
+PP-01 – O Analista de Suporte Nível 2 deverá possuir experiência mínima de 2 anos em suporte técnico a usuários corporativos.
+PP-02 – O profissional deverá possuir conhecimentos em Windows 11, Microsoft 365, hardware de notebooks e desktops, redes básicas e ferramentas de acesso remoto.
+PP-03 – Será desejável conhecimento de ITIL 4 e boas práticas de gerenciamento de serviços de TI.
+PP-04 – O Coordenador de Serviços deverá possuir experiência mínima de 3 anos em coordenação de equipes de suporte e acompanhamento de indicadores de SLA.
+PP-05 – Os profissionais deverão possuir boa comunicação, capacidade de documentação e atendimento ao usuário.
+
+9. RELATÓRIOS E GOVERNANÇA
+GOV-01 – A CONTRATADA deverá fornecer relatório mensal contendo volume de chamados, classificação por prioridade, percentual de cumprimento de SLA, principais incidentes e backlog.
+GOV-02 – Deverá ser realizada reunião mensal de acompanhamento dos indicadores e definição dos planos de ação necessários.
+
+10. INFORMAÇÕES A SEREM ESCLARECIDAS
+PEN-01 – Quantos usuários serão atendidos em cada localidade?
+PEN-02 – Qual é o volume médio mensal de chamados por categoria e prioridade?
+PEN-03 – Qual ferramenta ITSM será disponibilizada pela CONTRATANTE?
+PEN-04 – Existem usuários VIP que necessitam de níveis de serviço diferenciados?
+PEN-05 – Será necessário atendimento fora do horário comercial, aos finais de semana ou feriados?
+PEN-06 – A CONTRATANTE fornecerá notebooks e demais equipamentos necessários para os profissionais alocados?
+
+FIM DO DOCUMENTO
