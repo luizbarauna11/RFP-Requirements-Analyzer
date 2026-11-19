@@ -1,0 +1,41 @@
+RFP - CONTRATAÇÃO DE SERVIÇOS DE SUPORTE DE TI
+
+1. A CONTRATADA deverá fornecer serviços de suporte técnico presencial e remoto aos usuários.
+
+2. Os profissionais deverão possuir conhecimento em Windows 11, Microsoft 365, Active Directory e ferramentas de acesso remoto.
+
+3. O atendimento deverá ocorrer de segunda a sexta-feira, das 08h às 18h.
+
+4. Incidentes críticos classificados como prioridade P1 deverão ter tempo de resposta máximo de 15 minutos.
+
+5. Incidentes classificados como prioridade P2 deverão ter tempo de resposta máximo de 30 minutos.
+
+6. A CONTRATADA deverá garantir SLA mínimo de 95% para os chamados atendidos dentro dos prazos estabelecidos.
+
+7. A solução deverá possuir mecanismos de controle de acesso e autenticação dos usuários.
+
+8. A CONTRATADA deverá cumprir as políticas de segurança da informação e proteção de dados da CONTRATANTE.
+
+9. Os profissionais deverão assinar termo de confidencialidade antes do início das atividades.
+
+10. Os serviços presenciais serão realizados em São Paulo, Rio de Janeiro e Curitiba.
+
+11. A CONTRATADA deverá possuir capacidade de atendimento remoto para usuários localizados em outras regiões do Brasil.
+
+12. A proposta comercial deverá apresentar separadamente os valores mensais referentes aos profissionais alocados.
+
+13. Todos os impostos, encargos trabalhistas e despesas administrativas deverão estar incluídos nos valores apresentados.
+
+14. A validade mínima da proposta comercial deverá ser de 60 dias.
+
+15. O prazo para início da operação será de até 30 dias após a assinatura do contrato.
+
+16. A CONTRATADA deverá apresentar um plano de transição antes do início da operação.
+
+17. O período de transição deverá ser concluído em no máximo 20 dias úteis.
+
+18. A CONTRATADA deverá fornecer relatórios mensais contendo quantidade de chamados, cumprimento de SLA e principais indicadores do serviço.
+
+19. Os chamados deverão ser registrados e acompanhados através da ferramenta de ITSM definida pela CONTRATANTE.
+
+20. A CONTRATADA deverá indicar um responsável pela gestão do contrato e acompanhamento dos níveis de serviço.
